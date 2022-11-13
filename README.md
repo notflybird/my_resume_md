@@ -11,15 +11,15 @@
 ## <font color="#2683C6">专业技能</font>
 
 <div style="line-height:25px">
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">HTML5+CSS3</font></br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">vue2/vue3+vue-router+axios+vuex/pinia</font>全家桶开发框架😀</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">Javascript、TypeScript</font>和ES6~ES12高级语法</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉微信小程序开发流程，做过许多微信小程序项目</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">React Hooks+react-router-dom+redux+antd</font>开发</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">uni-app</font>开发</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 懂得使用<font color="#ee9922">less/scss</font>预处理器</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Angluar</font>框架🥺</br>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Node.js 、express</font>框架</br>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">HTML5+CSS3</font>  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">vue2/vue3+vue-router+axios+vuex/pinia</font>全家桶开发框架😀  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">Javascript、TypeScript</font>和ES6~ES12高级语法  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉微信小程序开发流程，做过许多微信小程序项目  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">React Hooks+react-router-dom+redux+antd</font>开发  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">uni-app</font>开发  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 懂得使用<font color="#ee9922">less/scss</font>预处理器  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Angluar</font>框架🥺  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Node.js 、express</font>框架  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨了解<font color="#ee9922">微前端</font>开发，有过项目经验 😁
 </div>
 
@@ -66,9 +66,9 @@
 
 
 ## <font color="#2683C6">个人账号</font>
-* CSDN地址:</br> 
+* CSDN地址:  <br/> 
     🔗关于vue项目在IE浏览器不兼容问题:
-    https://blog.csdn.net/qq_40731891/article/details/106351671</br>
+    https://blog.csdn.net/qq_40731891/article/details/106351671  <br/>
    🔗音乐播放结束后Swiper切换页面:
    https://blog.csdn.net/qq_40731891/article/details/118554534
    🔗vue响应原理-学习:
@@ -77,6 +77,6 @@
 ## <font color="#2683C6">自我评价</font> 
 * 有较强的学习及适应能力，喜欢接触尝试新东西、新技术；😀
 * 有较强的团队精神，团队目标优先考虑，服从领导的指令；🙃
-</br>
-</br>
+  <br/>
+  <br/>
 <div style="text-align:right;font-size:18px;">感谢阅读 😊</div>
