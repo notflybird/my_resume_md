@@ -41,7 +41,7 @@
     * 技术：qiankun微前端框架、Vue、Element UI、axios、cordova；
     * 技术难点：初次了解cordova技术；😶‍🌫️
     * 担当角色：功能开发、接口对接、项目测试；
-    * 项目描述：使用<font color="#ee9922">qiankun微前端</font>将家客管理台拆分成主项目和许多子项目，主项目代理子项目，打包部署时只需要部署子项目，节约了开发成本；使用vue3开发h5页面，然后使用<font color="#ee9922">cardove转换成Android App</font>；对家庭客户路由安装业务处理，对网络覆盖情况进行上报处理；展示网络小区覆盖情况。
+    * 项目描述：使用<font color="#ee9922">qiankun微前端</font>将家客管理台拆分成主项目和许多子项目，主项目代理子项目，打包部署时只需要部署子项目，节约了开发成本；使用vue3开发h5页面，然后使用<font color="#ee9922">Cordova转换成Android App</font>；对家庭客户路由安装业务处理，对网络覆盖情况进行上报处理；展示网络小区覆盖情况。
 
 3. 山东省空天地一体化自然资源监测监管系统 - 2022.01~2022.02
     * 技术：react+react-router-dom+redux+antd+阿启示视频插件；
