@@ -1,6 +1,4 @@
- <center>
-     <h1><font color="#2683C6">前端研发工程师</font></h1>
- </center>
+
 
 ## <font color="#2683C6">个人简介</font> 
 
