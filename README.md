@@ -26,6 +26,7 @@
 ## <font color="#2683C6">工作经历</font>
 
 * 中国铁塔山东省分公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.7~2022.11&emsp;&emsp;&emsp;&emsp;&emsp;
+* 同启苏沐科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.11~2024.7&emsp;&emsp;&emsp;&emsp;&emsp;
 * 工作任务：根据UI设计图完美实现前端页面;与后台对接，完成前后端联调;对于测试，
 验证问题bug进行修改。
 
