@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 懂得使用<font color="#ee9922">less/scss</font>预处理器  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Angluar</font>框架😁  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Node.js 、express</font>框架  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨了解<font color="#ee9922">微前端</font>开发，有过项目经验 😁
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨了解<font color="#ee9922">微前端</font>开发，有过项目经验 😁<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨熟练使用Markdown编写文档 😁
 </div>
 
