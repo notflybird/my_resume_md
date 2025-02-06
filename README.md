@@ -7,7 +7,7 @@
 * 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：刘林&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：28  
 * 民&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;族：汉 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;手&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机：17863920125    
 * 工作经验：5年 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：1418575125@qq.com
- 
+* 毕业学校：青岛大学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：计算机科学与技术
 ## <font color="#2683C6">专业技能</font>
 
 <div style="line-height:25px">
@@ -18,15 +18,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">React Hooks+react-router-dom+redux+antd</font>开发  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 熟悉<font color="#ee9922">uni-app</font>开发  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 懂得使用<font color="#ee9922">less/scss</font>预处理器  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Angluar</font>框架🥺  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Angluar</font>框架😁  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨ 了解<font color="#ee9922">Node.js 、express</font>框架  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  ✨了解<font color="#ee9922">微前端</font>开发，有过项目经验 😁
+&nbsp;&nbsp;&nbsp;&nbsp;  ✨熟练使用Markdown编写文档 😁
 </div>
 
 ## <font color="#2683C6">工作经历</font>
 
 * 中国铁塔山东省分公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.7~2022.11&emsp;&emsp;&emsp;&emsp;&emsp;
-* 同启苏沐科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.11~2024.7&emsp;&emsp;&emsp;&emsp;&emsp;
+* 同启苏沐科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.11~2025.2&emsp;&emsp;&emsp;&emsp;&emsp;
 * 工作任务：根据UI设计图完美实现前端页面;与后台对接，完成前后端联调;对于测试，
 验证问题bug进行修改。
 
@@ -68,7 +69,11 @@
     * 技术：Vue、PDF插件、自主开发表格复制粘贴插件；
     * 担当角色：项目自主研发 、接口对接、项目测试；
     * 技术难点：实现类似Excel复制粘贴剪切功能；
-    * 项目描述：主要用于护理部、科护士长进行计划排班、质控任务管理、教学培训管理。
+    * 项目描述：主要用于护理部、科护士长进行计划排班、质控任务管理、教学培训管理，使用人数超过4千多，得到护士长好评。
+8. 体检预约-小程序 - 2023.6~2024.5
+    * 技术：Vue、Sass；
+    * 担当角色：项目自主研发 、接口对接、项目测试；
+    * 项目描述：主要用于用户体检预约，具有个人套餐体检、团队套餐体检，使用人数超过1万。
 
 ## <font color="#2683C6">个人账号</font>
 * CSDN地址:  <br/> 
@@ -77,11 +82,16 @@
    🔗音乐播放结束后Swiper切换页面:  <br/>
      [https://blog.csdn.net/qq_40731891/article/details/118554534](https://blog.csdn.net/qq_40731891/article/details/118554534)  <br/>
    🔗vue响应原理-学习:  <br/>
-     [https://blog.csdn.net/qq_40731891/article/details/119354104](https://blog.csdn.net/qq_40731891/article/details/119354104)
-
+     [https://blog.csdn.net/qq_40731891/article/details/119354104](https://blog.csdn.net/qq_40731891/article/details/119354104) <br/>
+   🔗element plus组件el-transfer拖拽排序功能实现:  <br/>
+     [https://blog.csdn.net/qq_40731891/article/details/139685602) 阅读量：5433<br/>
+   🔗Vue 表格“框选”、“复制”、“粘贴”功能:  <br/>
+     [https://blog.csdn.net/qq_40731891/article/details/138860235)  阅读量：2811<br/>
+* 博客地址:  <a>https://notflybird.github.io/study-docs/</a><br/> 
 ## <font color="#2683C6">自我评价</font> 
 * 有较强的学习及适应能力，喜欢接触尝试新东西、新技术；😀
-* 有较强的团队精神，团队目标优先考虑，服从领导的指令；🙃
+* 喜欢分享一些技术知识，以及技术难点；
+* 有较强的团队精神，团队目标优先考虑，服从领导的指令；😀
   <br/>
   <br/>
 <div style="text-align:right;font-size:18px;">感谢阅读 😊</div>
